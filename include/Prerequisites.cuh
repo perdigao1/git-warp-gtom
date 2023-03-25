@@ -24,7 +24,6 @@
 #include <sstream>
 #include <fstream>
 #include <vector>
-#include <stdexcept>
 
 namespace gtom
 {
